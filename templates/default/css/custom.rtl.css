@@ -1,0 +1,237 @@
+.col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12,
+.col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12,
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12,
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12
+{
+    float: right;
+	direction:rtl;
+}
+
+/* BREADCRUMB */
+.v-page-heading .heading-text {
+	float: right;
+	margin-right: 0px;
+}
+.v-page-heading .breadcrumb {
+	float: left;
+}
+
+.portfolio-grid{
+	float:right;
+}
+
+/* HEADER */
+.header-top-info ul {
+	float: right;
+}
+.header-top-info li {
+	float: right;
+	border-left: 0;
+	border-right: 1px solid #EBEBEB;
+}
+.header-container .header-top ul.social-icons {
+	float: left;
+	left: 10px;
+	right: auto;
+	margin: 0 10px 0 0;
+}
+.header-top-info li:last-child {
+	border-left: 1px solid #EBEBEB;
+}
+.header-container .header-top nav {
+	float: left !important;
+}
+nav.std-menu.header-top-menu .menu li.m-item {
+	border-left: 0;
+	border-right: 1px solid #EBEBEB;
+}
+nav.std-menu .menu li {
+	float: right;
+}
+header div.search {
+	float: left;
+}
+header nav.nav-main {
+	float: left;
+}
+header div.logo {
+	position: relative;
+	float: right;
+	text-align: right;
+}
+.nav-pills>li {
+	float: right;
+}
+
+/* SEARCH AUCTIONS */
+.input-group {
+	float: right;
+}
+.input-group-btn .dropdown-toggle {
+	float: right;
+}
+.input-group .form-control {
+	float: left;
+	right: auto;
+	left: 0;
+	text-align: right;
+}
+.dropdown-menu {
+	left: auto;
+	right: 0;
+	float: right;
+	text-align: right;
+}
+/* AUCTION LIST */
+.all-auctions {
+	float: right;
+}
+.nav-tabs li:first-child a {
+	border-top-left-radius: 0;
+	border-top-right-radius: 3px;
+	border-left: 0;
+}
+
+.nav-tabs li:last-child a {
+	border-top-left-radius: 3px;
+	border-top-right-radius: 0;
+	margin-left: 0;
+	border-left: 1px solid #e4e4e4;
+}
+.owl-carousel .owl-item {
+	float: right !important;
+}
+.carousel-wrap a.prev {
+	right: -10px;
+	left: auto;
+	background: transparent url(../images/base/showcase-nav.png) no-repeat center right;
+
+}
+.carousel-wrap a.next {
+	left: -10px;
+	right: auto;
+	background: transparent url(../images/base/showcase-nav.png) no-repeat center left;
+}
+
+/* FOOTER */
+footer .footer-contact-info .fa {
+	margin-right: 0;
+	margin-left: 10px;
+}
+.pull-right {
+	float: left!important;
+}
+
+.copyright .container div {
+	float: right;
+}
+
+/* LOGIN */
+.horizontal-break.left {
+	margin-left: auto;
+	margin-right: 0px !important;
+}
+.v-list-v2 li i {
+	margin-left: 8px;
+	margin-right: 0px;
+}
+.v-list li i {
+	margin-left: 10px;
+	margin-right: 0px;
+}
+
+.input-group-icon .input-group-addon span.icon, .input-search .input-group-addon span.icon {
+	left: auto;
+	right: 0;
+}
+.input-group-icon .input-group-addon + input.form-control, .input-search .input-group-addon + input.form-control {
+	padding-left: 12px;
+	padding-right: 36px;
+}
+.checkbox-custom input[type="checkbox"] {
+	top: 50%;
+	right: 3px;
+	left: auto;
+}
+.checkbox-custom label:before {
+	right: 0;
+	left: auto;
+}
+.checkbox-custom input[type="checkbox"]:checked + label:after {
+	right: 0;
+	left: auto;
+}
+.checkbox-custom {
+	padding: 0 25px 0 0 ;
+	margin-bottom: 7px;
+}
+
+/* RESTORE PASSWORD */
+.btn.v-btn, input[type=submit] {
+	margin-right: 0;
+}
+
+/* REGISTRATION */
+input[type=checkbox], input[type=radio] {
+	margin: 4px 0 0;
+	margin-top: 1px\9;
+	line-height: normal;
+}
+
+.pricing-column {
+	float: right;
+}
+
+/* SIDEBAR */
+.dashboard-logout {
+	float: left;
+}
+
+/* CONTACT US */
+#contact-form label {
+	text-align: left;
+	float: right;
+}
+#contact-form .small {
+	text-align: left;
+}
+#contact-form input {
+	margin: 2px 10px 7px 0;
+}
+
+#contact-form button {
+	clear: both;
+	margin: 20px 190px 20px 4px;
+	min-width: 80px;
+}
+
+/* CATEGORIES */
+h4.v-heading, h3.v-heading, h4.v-line-heading {
+	text-align: right;
+}
+.comment-wrap .comment-avatar {
+	float: right;
+}
+.comment-content {
+	margin-right: 65px;
+	margin-left: 0;
+}
+div.pagination-wrapper {
+	text-align: right !important;
+}
+.pagination-wrapper .links-part>a, .pagination-wrapper .links-part>span {
+	float: right;
+	margin-right: -1px;
+	margin-left: 0;
+}
+.v-search-widget form input {
+	padding-right: 15px;
+	padding-left: 0;
+}
+.v-search-widget form:after {
+	padding-left: 15px;
+	padding-right: 0;
+	float: left;
+	right: auto;
+	left: 0;
+}
