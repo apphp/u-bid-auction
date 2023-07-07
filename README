@@ -1,0 +1,48 @@
+ --------------------------------------------------------------------------- 
+ -= YOU MAY NOT REMOVE OR CHANGE THIS NOTICE =-                 
+ --------------------------------------------------------------------------- 
+    uBidAuction - Classic and Bids auction script in PHP
+    Version :      2.0.1
+    Developed by:  ApPHP <info@apphp.com>                                      
+    License:       GNU LGPL v.3                                                
+    Site:          bid-auction-script.com
+    Copyright:     uBidAuction (c) 2018 - 2019
+                   All rights reserved.                                        
+
+ Requirements
+ ---------------------------------------------------------------------------
+    - PHP 5.4.0 or later
+    - PDO extension enabled
+    - ApPHP MVC Framework v1.0.0 or later (included in release)
+
+ Additional (embedded) components and modules used in this project:
+ --------------------------------------------------------------------------- 
+    - Bar Rating (jQuery Plugin)								v1.2.2		http://github.com/antennaio/jquery-bar-rating
+    - Chosen (Select Box Enhancer) for jQuery and Prototype 	v1.4.2		https://github.com/harvesthq/chosen
+    - CodeMirror (JavaScript component)                  		v3.12    	http://codemirror.net
+    - Coin Slider (Unique jQuery plug-in - Image Slider) 		v1.0     	http://workshop.rs/projects/coin-slider
+    - FancyBox (jQuery Plugin)                           		v1.3.4   	http://fancybox.net
+    - jQuery (JavaScript library)                        		v1.11.3   	http://jquery.com/
+    - jQuery User Interface Plugin (JavaScript library)  		v1.10.2  	http://jqueryui.com
+    - jQuery Modal Plugin (JavaScript library)        	  		v1.2.3   	http://creativedream.net/plugins
+    - jQuery Form Validator										v2.3.26		http://formvalidator.net
+    - Mask Plugin (jQuery Plugin)                           	v1.14.15   	http://github.com/antennaio/jquery-bar-rating
+    - Morris (pretty time-series line graphs) 					v0.5.0		http://morrisjs.github.com
+    - Revolution Slider (jQuery Plugin)                         v4.6.0      http://responsiveslides.com/
+    - TimePicker plugin (jQuery Plugin)                         v1.11.11    http://jonthornton.github.com/jquery-timepicker/
+    - DatetimePicker plugin (jQuery Plugin)                     v1.6.3      http://trentrichardson.com/examples/timepicker/
+    - TinyMCE (WYSIWYG editor)                           		v3.5.8   	http://www.tinymce.com/
+    - Toastr (jQuery Plugin)									v2.1.3		http://codeseven.github.io/toastr
+    - TipTip (Tooltip jQuery plug-in, Drew Wilson)       		v1.3     	http://code.drewwilson.com/entry/tiptip-jquery-plugin
+    - Xoxco Tags Input (jQuery Plugin)                         	v1.3.3   	http://xoxco.com/projects/code/tagsinput
+
+   
+ Installation:
+ ---------------------------------------------------------------------------
+    - INSTALL
+    - http://www.bid-auction-script.com/installation
+
+ Getting Started:
+ ---------------------------------------------------------------------------
+    - http://www.bid-auction-script.com/getting-started
+
