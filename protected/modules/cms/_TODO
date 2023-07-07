@@ -1,0 +1,18 @@
+
+- Add possibility to delete - ALL Test Data - create delete.test.mysql.sql
+
+- add if Hebrew - WYSIWYG used RTL property automotically!!!!
+
+8. Module: CMS
+    -- make title meta tag is empty by default and takes value from page header!!!
+    -- add Trash for pages 
+	-- implement comments feature
+	-- FOR comments add option to Replay!!!!!!
+	-- when comment is posted - show it for current user even it's under review - write under revieeww
+    -- Is possible to set start publishing datetime and end of publishing datetime of some page/content/dishes ?
+    -- implement WYSIWYG editor to taxtarea fields in CFormView
+    -- implement SEO link type - domain.com/page/Name (without ID) - required unique saved in DB url-seo-value
+    -- place meta tags FIEDSET at the right side unde button!!!! and buttons place at the top
+    -- add new type of SEO links : long-title-page-ID
+    -- ad dpossibility to user to create and edit SEO link???
+	-- add "show_in_search" personal page setting for pages / global settings?

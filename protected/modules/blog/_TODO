@@ -1,0 +1,34 @@
+
+- Add possibility to delete - ALL Test Data - create delete.test.mysql.sql
+
+Module: Blog
+
+	-- ALLOW to insert <iframe width="560" height="315" src="https://www.youtube.com/embed/6v7yBvUdkXg" frameborder="0" allowfullscreen></iframe>
+	
+	-- add Categories for Blog + option to show them in side column
+	- add section : lastet posts on home page !!!!!!
+	
+    -- new settings:
+        Show at most X	posts on the main page
+        Show at most X	posts on the category page
+        Share On Social Networks	Specifies whether to show social networks icons under post's text	Yes	View divider Edit 
+        Show Tag Cloud Block	Specifies whether to show Tags Cloud block on the blog's front-end	Yes	View divider Edit
+    -- implement "finish_publishing_at" (field already exists)
+    -- implement blog post categories feature!!!
+    -- implement blog pagination
+    -- implement blog side BLOCK feature!!! (like news block) with last posts or comments!!!
+    -- add possibility to define keywords (tags) + add them under posts + filtering by tags!!!!
+    -- add comments feature !!!
+    -- add new field publish_at = created_at or modified_at!!!! and start publishing by this date, not by created_at !!!
+    -- in Posted by Leumas Naypoka make link to user's profile !!!! (at least sime publick data!!!) ??? ask alex do we need this
+    -- translate news dates!!!! in side block
+    -- when view current post on post description page add at the bottom;
+        <<Newer Post      Home         Older Post >>
+	-- add "show_in_search" setting for pages
+	
+	-- latest comment as block from left!!!
+
+
+30. Create socila networks auto-posting + enable via General > Social > Enabler
+32. For Social networks add new field: share button code!!!!
+	prepare for all networks + implement in blog module!!!!
